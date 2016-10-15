@@ -1,5 +1,5 @@
 # Laravel PHP Framework
-
+/Users/mohammadselimmiah/Sites/RestApi
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
 [![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
 [![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
@@ -26,7 +26,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
 # Laravel_RestApi
-
+/Users/mohammadselimmiah/Sites/RestApi
 $ laravel new RestApi
 $ cd RestApi/
 Configure .env for database and email
